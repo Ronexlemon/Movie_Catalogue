@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="movies">Movies</string>
+    <string name="title">TITLE</string>
+    <string name="release">RELEASE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
